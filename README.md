@@ -1,11 +1,6 @@
 # Game-Player-Management-Application
 
 
-Thanks for sharing the image and full module description. Based on your **CS 230 Module Four Assignment**, here's a `README.md` file you can use for your **GitHub repo** or as documentation within your Eclipse project folder:
-
----
-
-````markdown
 # Game Player Management Application – CS 230 Module Four
 
 > A RESTful API demo secured with Basic Authentication using Dropwizard, developed for **The Gaming Room** as part of Creative Technology Solutions (CTS) consulting.
